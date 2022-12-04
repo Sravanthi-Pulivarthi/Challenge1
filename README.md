@@ -7,7 +7,7 @@ Solution:
 DevOps Tools:
 
 1. Gitlab, Source Code Management
-2. Azure Devops, for Continuous Integration
+2. Azure Devops for creating pipelines
 3. Terraform for Cloud Provisioning Tool
 4. Azure, for public cloud service platform
 
